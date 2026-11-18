@@ -1,0 +1,6 @@
+{
+  "name": "KanaStudio — Học Tiếng Nhật Hiragana & Katakana",
+  "description": "Ứng dụng học bảng chữ cái Hiragana và Katakana với phát âm chuẩn bản ngữ, flashcard ghi nhớ và kiểm tra từ vựng tiếng Nhật.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
